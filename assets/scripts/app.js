@@ -1,4 +1,5 @@
 /* import Typed from 'typed.js'; */
+import Typed from 'typed.js';
 
 const Portfolio = function() {
 

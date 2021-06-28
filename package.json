@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mayank-sati/my-portfolio/issues"
   },
-  "homepage": "https://github.com/mayank-sati/my-portfolio#readme"
+  "homepage": "https://github.com/mayank-sati/my-portfolio#readme",
+  "dependencies": {
+    "typed.js": "^2.0.12"
+  }
 }
